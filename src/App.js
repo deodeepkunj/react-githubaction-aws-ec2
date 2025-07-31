@@ -10,6 +10,7 @@ function App() {
           Deploy react app using <code>GitHub Actions</code> and {""}
           <code>AWS EC2</code>
         </p>
+        <p>Succesfully Deployed 🎉</p>
         <p>HAPPY CODING 😎</p>
       </header>
     </div>
